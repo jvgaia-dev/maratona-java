@@ -29,7 +29,6 @@ public class Exercicio_Operadores {
         boolean isDezDiferenteDez = 10 != 10;
         boolean isDezDiferenteVinte = 10 != 20;
 
-
         System.out.println("dez maior que vinte "+isDezMaiorQueVinte);
         System.out.println("dez menor que vinte "+isDezMenorQueVinte);
         System.out.println("dez igual a vinte "+isDezIgualVinte);
@@ -46,6 +45,29 @@ public class Exercicio_Operadores {
         System.out.println("Dentro da lei maior que trinta "+isDentroDaLeiMaiorQueTrinta);
         System.out.println("Dentro da lei menor que trinta "+isDentroDaLeiMenorQueTrinta);
 
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorNintendoSwitch = 2100f;
+        boolean isNintendoSwitchCompravel = valorTotalContaCorrente > valorNintendoSwitch || valorTotalContaPoupanca > valorNintendoSwitch;
 
+        System.out.println("Nintendo switch compravel "+ isNintendoSwitchCompravel);
+
+        //Operadores de atribuição = += -= /= %=
+        double bonus = 1800;
+        bonus += 1000;
+        bonus -= 1000;
+        bonus *= 2;
+        bonus /= 2;
+        bonus %= 2;
+        System.out.println(bonus);
+
+        //Extra (operadores de atribuição)
+        int contador = 0;
+        contador += 1; // contador = contador + 1;
+        contador ++;
+        contador --;
+        ++contador;
+        --contador;
+        System.out.println(contador);
     }
 }
