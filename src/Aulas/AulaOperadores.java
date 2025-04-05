@@ -1,6 +1,6 @@
-package projetosJava1;
+package Aulas;
 
-public class Exercicio_Operadores {
+public class AulaOperadores {
     public static void main(String[] args) {
         //Operadores Aritimetico
         int numero01 = 10;

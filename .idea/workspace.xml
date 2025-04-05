@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4bb396c-a48e-477c-a973-ecce1af4c991" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/projetosJava1/Exercicio_EstruturasCondicionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetosJava1/Exercicio_EstruturasCondidcionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaArrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturaDeRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturaDeRepeticao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturasCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturasCondidcionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioEstruturaRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioTaxaSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projetosJava1/Exercicio_Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projetosJava1/Exercicio_Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetosJava1/Exercicio_EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturasCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetosJava1/Exercicio_EstruturasCondidcionais02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetosJava1/Exercicio_Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/AulaOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetosJava1/Exercicio_TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioEndereco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +37,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2v5CTmBPEztOLI7aDZAFifUkgII" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AulaEstruturaDeRepeticao.executor": "Run",
+    "Application.AulaEstruturaDeRepeticao02.executor": "Run",
+    "Application.AulaSwitch.executor": "Run",
+    "Application.ExercicioBreak.executor": "Run",
+    "Application.ExercicioEstruturaRepeticao.executor": "Run",
+    "Application.ExercicioSwitch.executor": "Run",
+    "Application.ExercicioTaxaSalario.executor": "Run",
     "Application.Exercicio_EstruturasCondicionais.executor": "Run",
+    "Application.Exercicio_EstruturasCondicionais03.executor": "Run",
     "Application.Exercicio_EstruturasCondidcionais02.executor": "Run",
     "Application.Exercicio_Operadores.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,13 +67,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio_EstruturasCondidcionais02">
-    <configuration name="Exercicio_EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projetosJava1.Exercicio_EstruturasCondicionais" />
+  <component name="RunManager" selected="Application.ExercicioBreak">
+    <configuration name="AulaEstruturaDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaEstruturaDeRepeticao" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projetosJava1.*" />
+          <option name="PATTERN" value="Aulas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_EstruturasCondidcionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projetosJava1.Exercicio_EstruturasCondidcionais02" />
+    <configuration name="AulaEstruturaDeRepeticao02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaEstruturaDeRepeticao02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projetosJava1.*" />
+          <option name="PATTERN" value="Aulas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +94,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projetosJava1.Exercicio_Operadores" />
+    <configuration name="AulaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaSwitch" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projetosJava1.*" />
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.ExercicioBreak" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioEstruturaRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.ExercicioEstruturaRepeticao" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,9 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio_EstruturasCondidcionais02" />
-        <item itemvalue="Application.Exercicio_EstruturasCondicionais" />
-        <item itemvalue="Application.Exercicio_Operadores" />
+        <item itemvalue="Application.ExercicioBreak" />
+        <item itemvalue="Application.AulaEstruturaDeRepeticao02" />
+        <item itemvalue="Application.ExercicioEstruturaRepeticao" />
+        <item itemvalue="Application.AulaEstruturaDeRepeticao" />
+        <item itemvalue="Application.AulaSwitch" />
       </list>
     </recent_temporary>
   </component>
