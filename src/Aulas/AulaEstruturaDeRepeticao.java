@@ -1,13 +1,19 @@
 package Aulas;
 
+import java.util.Scanner;
+
 public class AulaEstruturaDeRepeticao {
     public static void main(String[] args) {
         //while, do while, for
-        int count = 0;
-        while (count < 10) {
+        Scanner sc = new Scanner(System.in);
+        int soma = 0;
+        int x = sc.nextInt();
+        while (x != 0){
+            soma = soma +x;
+            x = sc.nextInt();
         }
-        for (int i = 0; i < 10; i++){
-            System.out.println("for "+i);
+        System.out.println("soma dos valores digitados: "+soma);
+
+        sc.close();
         }
-    }
 }

@@ -2,10 +2,11 @@ package Exercicios;
 //calcular taxa anual de um determinado salario
 public class ExercicioTaxaSalario {
     public static void main(String[] args) {
-        double salarioAnual = 35472;
-        double taxa1 = 9.48 / 100;
-        double taxa2 = 37.07 / 100;
-        double taxa3 = 49.5 / 100;
+        double salarioAnual, taxa1, taxa2, taxa3;
+        salarioAnual = 35472;
+        taxa1 = 9.48 / 100;
+        taxa2 = 37.07 / 100;
+        taxa3 = 49.5 / 100;
         String taxaAnual;
 
         if (salarioAnual <= 35472){
