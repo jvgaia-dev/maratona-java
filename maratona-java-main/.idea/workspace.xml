@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4bb396c-a48e-477c-a973-ecce1af4c991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaArraysForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaArraysMultidimensionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaArraysMultidimensionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEntradaDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEntradaDeDados02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEntradaDeDados03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aulas/AulaEntradaDeDados04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioCondicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioGrausCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioUri1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/Classes/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/Classes/test/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/Classes/test/EstudanteTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/AulaArrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/AulaArrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/AulaEstruturaDeRepeticao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/AulaEstruturaDeRepeticao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExercicioTaxaSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioTaxaSalario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2v5CTmBPEztOLI7aDZAFifUkgII" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AulaArrays01.executor": "Run",
+    "Application.AulaArraysForeach.executor": "Run",
+    "Application.AulaArraysMultidimensionais.executor": "Run",
+    "Application.AulaArraysMultidimensionais02.executor": "Run",
+    "Application.AulaEntradaDeDados.executor": "Run",
+    "Application.AulaEntradaDeDados04.executor": "Run",
+    "Application.AulaEstruturaDeRepeticao.executor": "Run",
+    "Application.AulaEstruturaDeRepeticao02.executor": "Run",
+    "Application.AulaSwitch.executor": "Run",
+    "Application.EstudanteTest02.executor": "Run",
+    "Application.ExercicioBreak.executor": "Run",
+    "Application.ExercicioCondicional.executor": "Run",
+    "Application.ExercicioEstruturaRepeticao.executor": "Run",
+    "Application.ExercicioGrausCelsius.executor": "Run",
+    "Application.ExercicioScanner.executor": "Run",
+    "Application.ExercicioSwitch.executor": "Run",
+    "Application.ExercicioTaxaSalario.executor": "Run",
+    "Application.ExercicioUri1007.executor": "Run",
+    "Application.Exercicio_EstruturasCondicionais.executor": "Run",
+    "Application.Exercicio_EstruturasCondicionais03.executor": "Run",
+    "Application.Exercicio_EstruturasCondidcionais02.executor": "Run",
+    "Application.Exercicio_Operadores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EstudanteTest02">
+    <configuration name="AulaArraysMultidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaArraysMultidimensionais" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaArraysMultidimensionais02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaEstruturaDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.AulaEstruturaDeRepeticao" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Classes.test.EstudanteTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Classes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioGrausCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.ExercicioGrausCelsius" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EstudanteTest02" />
+        <item itemvalue="Application.AulaArraysMultidimensionais02" />
+        <item itemvalue="Application.AulaArraysMultidimensionais" />
+        <item itemvalue="Application.ExercicioGrausCelsius" />
+        <item itemvalue="Application.AulaEstruturaDeRepeticao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4bb396c-a48e-477c-a973-ecce1af4c991" name="Changes" comment="" />
+      <created>1743425560999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743425560999</updated>
+    </task>
+    <servers />
+  </component>
+</project>
