@@ -10,6 +10,5 @@ public class FuncionarioTest01 {
         funcionario01.salario = new double[]{290, 356, 500.90};
 
         funcionario01.imprime();
-        //System.out.println("\nmedia salario = " + funcionario01.mediaSalario());
     }
 }
