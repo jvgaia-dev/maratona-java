@@ -8,7 +8,6 @@ public class Anime {
 
     //construtor
     public Anime(){
-
     }
 
     public void init(String nome, String tipo, int episodios){

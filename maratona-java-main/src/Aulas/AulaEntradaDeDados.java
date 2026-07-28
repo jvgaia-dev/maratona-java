@@ -9,6 +9,5 @@ public class AulaEntradaDeDados {
         System.out.println("Voce digitou: "+x);
 
         sc.close();
-
     }
 }
