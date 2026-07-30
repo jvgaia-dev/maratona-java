@@ -7,7 +7,7 @@ public class serieTest01 {
         Serie serie = new Serie("Dexter");
         System.out.println(serie.getNome());
         for (int episodio : serie.getEpisodios()){
-            System.out.print(episodio + " ");
+            System.out.print(episodio + "  ");
         }
     }
 }
